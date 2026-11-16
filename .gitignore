@@ -1,0 +1,11 @@
+.venv/
+archive/
+data/
+code/
+__pycache__/
+.pytest_cache/
+*.pyc
+models/baseline.joblib
+intro-lab/
+src/dashboard.py.bak
+patch_dashboard.py
